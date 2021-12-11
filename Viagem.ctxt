@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Viagem
+comment1.params=iId
+comment1.target=void\ listarViagens(int)
+comment2.params=iId
+comment2.target=void\ criarViagem(int)
+numComments=3

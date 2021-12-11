@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Arquivo
+comment1.params=sArquivo\ iArquivoOpcao\ aObj
+comment1.target=void\ Cadastrar(java.lang.String,\ int,\ java.util.ArrayList)
+comment1.text=\r\n\ Se\ iArquivoOpcao\ \=\ 1,entao\ usar\ arquivo\ de\ usuario\r\n\ Se\ iArquivoOpcao\ \=\ 2,entao\ usar\ arquivo\ de\ viagem\r\n\ Se\ iArquivoOpcao\ \=\ 3,entao\ usar\ arquivo\ de\ pontos\ turisticos\r\n
+comment2.params=sArquivo\ oObj
+comment2.target=void\ Atualizar(java.lang.String,\ java.util.ArrayList)
+comment3.params=sArquivo
+comment3.target=java.util.ArrayList\ Selecionar(java.lang.String)
+comment4.params=sArquivo
+comment4.target=java.lang.String\ Sequence(java.lang.String)
+comment5.params=sArquivo
+comment5.target=void\ SequenceAdd(java.lang.String)
+numComments=6

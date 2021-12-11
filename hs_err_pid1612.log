@@ -1,0 +1,36 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffa9834d5f3, pid=1612, tid=3112
+#
+# JRE version: OpenJDK Runtime Environment AdoptOpenJDK (11.0.10+9) (build 11.0.10+9)
+# Java VM: OpenJDK 64-Bit Server VM AdoptOpenJDK (11.0.10+9, mixed mode, tiered, compressed oops, g1 gc, windows-amd64)
+# Problematic frame:
+# V  [jvm.dll+0x36d5f3]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/AdoptOpenJDK/openjdk-support/issues
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -ea -agentlib:jdwp=transport=dt_shmem,address=javadebug -Dfile.encoding=UTF-8 bluej.runtime.ExecServer UTF-8
+
+Host: AMD FX-8320E Eight-Core Processor              , 8 cores, 19G,  Windows 10 , 64 bit Build 19041 (10.0.19041.1348)
+Time: Mon Nov 15 13:38:28 2021 Hora oficial do Brasil elapsed time: 8851.179435 seconds (0d 2h 27m 31s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000023ff7047000):  JavaThread "AWT-Shutdown" [_thread_in_vm, id=3112, stack(0x000000e1f6400000,0x000000e1f6500000)]
+
+Stack: [0x000000e1f6400000,0x000000e1f6500000],  sp=0x000000e1f64ff400,  free space=1021k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x36d5f3]
+V  [jvm.dll+0x5f3512]
+V  [jvm.dll+0x36e0ea]
+V  [jvm.dll+0x36e377]
+V  [jvm.dll+0x3dc5e1]
+V  [jvm.dll+0x740b39]
+V  [jvm.dll+0x739ba4]

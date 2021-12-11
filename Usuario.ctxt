@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=
+comment1.target=int\ getUsuarioId()
+comment2.params=iUsuarioId
+comment2.target=void\ setUsuarioId(int)
+comment3.params=
+comment3.target=void\ loginAction()
+comment3.text=\r\n\ Criando\ atributos\ e\ get\ set\ FIM\r\n
+comment4.params=iId
+comment4.target=void\ atualizarDados(int)
+comment5.params=
+comment5.target=void\ criarUsuario()
+comment6.params=
+comment6.target=void\ usuarioMenu()
+numComments=7

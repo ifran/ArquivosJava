@@ -1,0 +1,70 @@
+1
+1
+Malta
+02/01/2022
+03/05/2022
+Praia
+5000,00
+2
+2
+Russia
+22/06/2019
+06/20/2020
+Moscow
+10.000,00
+3
+2
+Nasa
+data
+data
+Nasa
+20,00
+4
+1
+China
+03/09/2022
+01/12/2022
+Praça da Paz Celestial
+20.000,00
+5
+3
+Japão
+12/12/2022
+23/12/2023
+Tokyo, coisas de mangá e coisas de anime
+12.000,00
+6
+3
+Vietnã
+24/12/2023
+12/12/2024
+Lagos e pontos de guerra
+6.000,00
+7
+4
+Vila da Chuva
+02/03/1997
+05/04/1997
+Torre onde o Pain fica, a chuva
+5.000,00
+8
+4
+Vila da Névoa
+05/10/2019
+06/02/2077
+Névoa, biju de 3 caudas
+6.000,00
+9
+5
+Papelandia
+01/01/2022
+01/02/2022
+Tesouraria, Borracharia
+1.000,00
+10
+5
+China
+01/01/2023
+03/05/2077
+China
+10.000,00
